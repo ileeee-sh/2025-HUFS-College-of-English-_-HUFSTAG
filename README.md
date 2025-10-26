@@ -1,8 +1,6 @@
 # 2025-HUFS-CollegeofEnglish - HUFSTAG
-
 A Two-Stage Study on Hashtag Structures and Audience Reactions on X (formerly Twitter)
 
-\n
 [Overview]
 
 This repository contains the research code, analysis scripts, and documentation for a two-stage study conducted by Team #HUFSTAG,
